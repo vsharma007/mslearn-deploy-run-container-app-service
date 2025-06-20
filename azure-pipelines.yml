@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: Azurededicated
 
 steps:
 - script: echo Hello, world!
